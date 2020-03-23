@@ -14,3 +14,8 @@ This is a collection of my configuration files for TF2, there are a few areas wi
 - Complete (enough) set of default binds
 ## 0regen.cfg
 - Practice script, binds M1 to regen
+## Hitsounds
+- Quake damage and kill sounds
+## HUD Edits
+- Place damage numbers onto the HUD
+- Edit for longer tournament mode team names
